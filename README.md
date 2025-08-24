@@ -1,7 +1,7 @@
 # Телеграм бот
 ## Это телеграм бот который различает породы собак на изображении ##
 ### Обработчик команды старт
-![img](C:\Users\dmitr\OneDrive\Desktop\Программирование\M7L2\start.png) 
+![img](<img width="846" height="166" alt="image" src="https://github.com/user-attachments/assets/88900a09-eca8-4e95-8a55-aa19eb017133" />) 
 @bot.message_handler(commands=['start']) 
 def start_command(message):
     text = (
